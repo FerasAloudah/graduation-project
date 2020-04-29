@@ -3,3 +3,7 @@ dataset
 checkpoints
 metadata
 *.csv
+*.png
+object_detector
+models
+images
